@@ -11,7 +11,11 @@
 </div>
 
 <p align="center">
-  <img alt="Preview of the In Orbit project main screen" src=".github/preview.png" width="100%">
+  <img alt="Preview of the In Orbit project main screen" src=".github/Thumbnail.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="Preview of the In Orbit project main screen" src=".github/Goals.png" width="100%">
 </p>
 
 ## 🎯 About The Project
